@@ -2,9 +2,6 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-Journal
-
-Conferences
 author_profile: true
 ---
 
